@@ -160,13 +160,6 @@ Raylib kullanarak görselleştirmenin yapılması ve grafik arayüzün tasarlanm
 Her iki yazar da projenin genel mimarisini birlikte tasarlamış, test süreçlerinde ve hata yönetiminde ortak çalışmıştır.
 
 
-## Gelecekteki Geliştirmeler
-Hareket Mekaniği: Birimlerin ızgara üzerinde ilerlemesi, menzil hesaplamaları ve stratejik konumlanma.
-Arazi ve Hava Koşulları: Arazi avantajı veya dezavantajı, hava durumunun menzil ve görüş alanına etkisi.
-Ek Irklar: Farklı ırklar ve onların özel yetenekleri eklenerek oyunun çeşitliliği artırılabilir.
-Daha Büyük Ordular: Performans testleri yapılarak, daha büyük sayıda birime ölçeklenebilirlik sağlanabilir.
-
-
 
 ## Screenshots
 <table>
