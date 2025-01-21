@@ -1,4 +1,4 @@
-# C ile Savaş Simülasyonu
+# C War Chronicles: Humans vs Orcs
 
 ## Açıklama
 Bu proje, C dili ile yazılmış bir savaş simülasyonudur. İki farklı ırk (İnsan İmparatorluğu ve Ork Lejyonu) arasında gerçekleşen stratejik savaşları modellemeyi amaçlar. Proje kapsamında, savaş birimlerinin (askerlerin), kahramanların ve canavarların özellikleri; saldırı, savunma, sağlık ve kritik vuruş gibi detaylı parametrelerle gerçekçi bir şekilde simüle edilir. Aynı zamanda, yorgunluk, kahraman bonusları, canavar dezavantajları ve araştırma seviyeleri gibi ek faktörler de savaşın gidişatını etkiler.
