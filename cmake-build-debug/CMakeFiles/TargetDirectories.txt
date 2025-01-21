@@ -1,0 +1,3 @@
+C:/Behic/project/School_Project1/cmake-build-debug/CMakeFiles/School_Project1.dir
+C:/Behic/project/School_Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Behic/project/School_Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

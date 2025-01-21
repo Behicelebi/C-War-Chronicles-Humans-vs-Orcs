@@ -1,0 +1,153 @@
+---------------------------------------------------------------
+Main senaryonun alindigi link: https://yapbenzet.org.tr/9.json
+---------------------------------------------------------------
+
+-------------------MAIN SCENARIO 09 LOG FILE-------------------
+
+---------------------------------------------------------------
+TUR 1
+
+INSANLAR SALDIRIYOR !!
+
+Insanların verdigi net hasar: 4173
+
+Insan guc: 18800
+Insan savunma: 18420
+
+Ork guc: 32434
+Ork savunma: 14627
+
+90 Canı olan mizrakcilar birimi 5 hasar yiyerek canı 85 e düştü.
+
+100 Canı olan ork_dovusculeri birimi 7 hasar yiyerek canı 93 e düştü.
+
+200 Canı olan troller birimi 11 hasar yiyerek canı 189 e düştü.
+
+130 Canı olan varg_binicileri birimi 11 hasar yiyerek canı 119 e düştü.
+
+ORKLAR SALDIRIYOR !!
+
+Orkların verdigi net hasar: 14014
+
+Insan guc: 18800
+Insan savunma: 18420
+
+Ork guc: 32434
+Ork savunma: 14627
+
+80 Canı olan okcular birimi 18 hasar yiyerek canı 62 e düştü.
+
+100 Canı olan piyadeler birimi 36 hasar yiyerek canı 64 e düştü.
+
+150 Canı olan kusatma_makineleri birimi 45 hasar yiyerek canı 105 e düştü.
+
+120 Canı olan suvariler birimi 27 hasar yiyerek canı 93 e düştü.
+---------------------------------------------------------------
+TUR 2
+
+INSANLAR SALDIRIYOR !!
+
+Insanların verdigi net hasar: 4173
+
+Insan guc: 18800
+Insan savunma: 18420
+
+Ork guc: 32434
+Ork savunma: 14627
+
+85 Canı olan mizrakcilar birimi 5 hasar yiyerek canı 80 e düştü.
+
+93 Canı olan ork_dovusculeri birimi 7 hasar yiyerek canı 86 e düştü.
+
+189 Canı olan troller birimi 11 hasar yiyerek canı 178 e düştü.
+
+119 Canı olan varg_binicileri birimi 11 hasar yiyerek canı 108 e düştü.
+
+ORKLAR SALDIRIYOR !!
+
+Orkların verdigi net hasar: 14014
+
+Insan guc: 18800
+Insan savunma: 18420
+
+Ork guc: 32434
+Ork savunma: 14627
+
+62 Canı olan okcular birimi 18 hasar yiyerek canı 44 e düştü.
+
+64 Canı olan piyadeler birimi 36 hasar yiyerek canı 28 e düştü.
+
+105 Canı olan kusatma_makineleri birimi 45 hasar yiyerek canı 60 e düştü.
+
+93 Canı olan suvariler birimi 27 hasar yiyerek canı 66 e düştü.
+---------------------------------------------------------------
+TUR 3
+
+INSANLAR SALDIRIYOR !!
+
+Insanların verdigi net hasar: 4173
+
+Insan guc: 18800
+Insan savunma: 18420
+
+Ork guc: 32434
+Ork savunma: 14627
+
+80 Canı olan mizrakcilar birimi 5 hasar yiyerek canı 75 e düştü.
+
+86 Canı olan ork_dovusculeri birimi 7 hasar yiyerek canı 79 e düştü.
+
+178 Canı olan troller birimi 11 hasar yiyerek canı 167 e düştü.
+
+108 Canı olan varg_binicileri birimi 11 hasar yiyerek canı 97 e düştü.
+
+ORKLAR SALDIRIYOR !!
+
+Orkların verdigi net hasar: 14014
+
+Insan guc: 18800
+Insan savunma: 18420
+
+Ork guc: 32434
+Ork savunma: 14627
+
+44 Canı olan okcular birimi 18 hasar yiyerek canı 26 e düştü.
+
+28 Canı olan piyadeler birimi 36 hasar yiyerek yok edildi.
+
+60 Canı olan kusatma_makineleri birimi 45 hasar yiyerek canı 15 e düştü.
+
+66 Canı olan suvariler birimi 27 hasar yiyerek canı 39 e düştü.
+---------------------------------------------------------------
+TUR 4
+
+INSANLAR SALDIRIYOR !!
+
+Insanların verdigi net hasar: 0
+
+Insan guc: 12200
+Insan savunma: 7860
+
+Ork guc: 32434
+Ork savunma: 14627
+
+INSANLAR ORKLARIN SAVUNMASINI DELMEYI BASARAMADI !
+
+ORKLAR SALDIRIYOR !!
+
+Orkların verdigi net hasar: 24574
+
+Insan guc: 12200
+Insan savunma: 7860
+
+Ork guc: 32434
+Ork savunma: 14627
+
+26 Canı olan okcular birimi 75 hasar yiyerek yok edildi.
+
+15 Canı olan kusatma_makineleri birimi 187 hasar yiyerek yok edildi.
+
+39 Canı olan suvariler birimi 112 hasar yiyerek yok edildi.
+---------------------------------------------------------------
+ORKLAR KAZANDI !
+---------------------------------------------------------------

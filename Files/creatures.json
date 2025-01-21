@@ -1,0 +1,61 @@
+{
+    "insan_imparatorlugu": {
+        "Ejderha": {
+            "etki_degeri": "15",
+            "etki_turu": "saldiri",
+            "aciklama": "piyadelerin saldiri gucunu %15 artirir."
+        },
+        "Agri_Dagi_Devleri": {
+            "etki_degeri": "20",
+            "etki_turu": "savunma",
+            "aciklama": "suvarilere %20 savunma bonusu saglar."
+        },
+        "Tepegoz": {
+            "etki_degeri": "25",
+            "etki_turu": "saldiri",
+            "aciklama": "okculara %25 saldiri gucunu artirir."
+        },
+        "Karakurt": {
+            "etki_degeri": "10",
+            "etki_turu": "kritik_sans",
+            "aciklama": "okculara %10 kritik vurus sansi saglar."
+        },
+        "Samur": {
+            "etki_degeri": "10",
+            "etki_turu": "savunma",
+            "aciklama": "piyadelerin savunmasini %10 artirir."
+        }
+    },
+    "ork_legi": {
+        "Kara_Troll": {
+            "etki_degeri": "20",
+            "etki_turu": "saldiri",
+            "aciklama": "trollerin saldiri gucunu %20 artirir."
+        },
+        "Golge_Kurtlari": {
+            "etki_degeri": "15",
+            "etki_turu": "savunma",
+            "aciklama": "varg_binicilerine saldirilara karsi %15 savunma bonusu saglar."
+        },
+        "Camur_Devleri": {
+            "etki_degeri": "25",
+            "etki_turu": "savunma",
+            "aciklama": "ork_dovusculerine %25 savunma bonusu saglar."
+        },
+        "Ates_Iblisi": {
+            "etki_degeri": "30",
+            "etki_turu": "saldiri",
+            "aciklama": "varg_binicilerin saldiri gucunu %30 artirir."
+        },
+        "Makrog_Savas_Beyi": {
+            "etki_degeri": "25",
+            "etki_turu": "savunma",
+            "aciklama": "trollerin savunma gucunu %25 artirir."
+        },
+        "Buz_Devleri": {
+            "etki_degeri": "15",
+            "etki_turu": "savunma",
+            "aciklama": "mizrakcilarin savunmasini %15 artirir."
+        }
+    }
+}

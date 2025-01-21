@@ -1,0 +1,51 @@
+{
+    "insan_imparatorlugu": {
+        "Alparslan": {
+            "bonus_turu": "savunma",
+            "bonus_degeri": "20",
+            "aciklama": "piyadelere %20 savunma bonusu saglar."
+        },
+        "Fatih_Sultan_Mehmet": {
+            "bonus_turu": "saldiri",
+            "bonus_degeri": "25",
+            "aciklama": "kusatma_makinelerinin saldiri gucunu %25 artirir."
+        },
+        "Mete_Han": {
+            "bonus_turu": "savunma",
+            "bonus_degeri": "20",
+            "aciklama": "okcularin savunma gucunu %20 artirir."
+        },
+        "Yavuz_Sultan_Selim": {
+            "bonus_turu": "kritik_sans",
+            "bonus_degeri": "15",
+            "aciklama": "suvarilere %15 kritik vurus sansi saglar."
+        },
+        "Tugrul_Bey": {
+            "bonus_turu": "saldiri",
+            "bonus_degeri": "20",
+            "aciklama": "okcularin saldiri gucunu %20 artirir."
+        }
+    },
+    "ork_legi": {
+        "Goruk_Vahsi": {
+            "bonus_turu": "saldiri",
+            "bonus_degeri": "20",
+            "aciklama": "ork_dovusculerine %20 saldiri bonusu saglar."
+        },
+        "Thruk_Kemikkiran": {
+            "bonus_turu": "savunma",
+            "bonus_degeri": "25",
+            "aciklama": "trollerin savunma gucunu %25 artirir."
+        },
+        "Vrog_Kafakiran": {
+            "bonus_turu": "kritik_sans",
+            "bonus_degeri": "15",
+            "aciklama": "varg_binicilerine %15 kritik vurus sansi saglar."
+        },
+        "Ugar_Zalim": {
+            "bonus_turu": "savunma",
+            "bonus_degeri": "10",
+            "aciklama": "tum_birimlere karsi %10 savunma saglar."
+        }
+    }
+}

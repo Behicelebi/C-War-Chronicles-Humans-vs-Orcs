@@ -1,0 +1,58 @@
+{
+    "savunma_ustaligi": {
+        "seviye_1": {
+            "deger": "10",
+            "aciklama": "tum_birimlerin savunmasini %10 artirir."
+        },
+        "seviye_2": {
+            "deger": "20",
+            "aciklama": "tum_birimlerin savunmasini %20 artirir."
+        },
+        "seviye_3": {
+            "deger": "30",
+            "aciklama": "tum_birimlerin savunmasini %30 artirir."
+        }
+    },
+    "saldiri_gelistirmesi": {
+        "seviye_1": {
+            "deger": "10",
+            "aciklama": "tum_birimlerin saldiri gucunu %10 artirir."
+        },
+        "seviye_2": {
+            "deger": "20",
+            "aciklama": "tum_birimlerin saldiri gucunu %20 artirir."
+        },
+        "seviye_3": {
+            "deger": "30",
+            "aciklama": "tum_birimlerin saldiri gucunu %30 artirir."
+        }
+    },
+    "elit_egitim": {
+        "seviye_1": {
+            "deger": "5",
+            "aciklama": "tum_birimlerin %5 kritik vurus sansi saglar."
+        },
+        "seviye_2": {
+            "deger": "10",
+            "aciklama": "tum_birimlerin %10 kritik vurus sansi saglar."
+        },
+        "seviye_3": {
+            "deger": "15",
+            "aciklama": "tum_birimlerin %15 kritik vurus sansi saglar."
+        }
+    },
+    "kusatma_ustaligi": {
+        "seviye_1": {
+            "deger": "10",
+            "aciklama": "kusatma_makinelerinin saldiri gucunu %10 artirir."
+        },
+        "seviye_2": {
+            "deger": "20",
+            "aciklama": "kusatma_makinelerinin saldiri gucunu %20 artirir."
+        },
+        "seviye_3": {
+            "deger": "30",
+            "aciklama": "kusatma_makinelerinin saldiri gucunu %30 artirir."
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "insan_imparatorlugu": {
+        "kahramanlar": ["Yavuz_Sultan_Selim"],
+        "canavarlar": ["Karakurt"],
+        "arastirma_seviyesi": {
+            "savunma_ustaligi": 2
+        },
+        "birimler": {
+            "okcular": 180,
+            "piyadeler": 220,
+            "kusatma_makineleri": 5,
+            "suvariler": 90
+        }
+    },
+    "ork_legi": {
+        "arastirma_seviyesi": {
+            "saldiri_gelistirmesi": 3
+        },
+        "birimler": {
+            "mizrakcilar": 140,
+            "ork_dovusculeri": 200,
+            "troller": 60,
+            "varg_binicileri": 110
+        },
+        "kahramanlar": ["Goruk_Vahsi"],
+        "canavarlar": ["Golge_Kurtlari"]
+    }
+}
