@@ -148,10 +148,12 @@ ORKLAR KAZANDI !
 
 ## Katkıda Bulunanlar
 Murat Emre Biçici
+
 Savaş mekaniklerinin matematiksel modellemesi, saldırı-savunma hesaplamaları ve libcurl entegrasyonu
 Algoritmaların doğrulanması ve fonksiyonların geliştirilmesi
 
 Behiç Çelebi
+
 JSON dosyalarının manuel ayrıştırılması ve senaryo işleme algoritmalarının geliştirilmesi
 Raylib kullanarak görselleştirmenin yapılması ve grafik arayüzün tasarlanması
 
