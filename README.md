@@ -63,17 +63,16 @@ Kodu kopyala
 sudo apt-get update
 sudo apt-get install libcurl4-openssl-dev
 
-# Raylib kurulumu (Paket yöneticisinde varsa)
+### Raylib kurulumu (Paket yöneticisinde varsa)
 sudo apt-get install libraylib-dev
 
-# Gerekli değilse kendiniz kaynak kodundan da derleyebilirsiniz
-# Daha fazla bilgi için: https://github.com/raysan5/raylib
+### Gerekli değilse kendiniz kaynak kodundan da derleyebilirsiniz
+### Daha fazla bilgi için: https://github.com/raysan5/raylib
 2. Derleme
 Proje dosyalarınızı bir klasöre indirdikten sonra, aşağıdaki gibi derleyebilirsiniz:
 
 bash
-Kodu kopyala
-# Örnek derleme komutu (dosya adlarınızı ve konumlarınızı uyarlayın)
+### Örnek derleme komutu (dosya adlarınızı ve konumlarınızı uyarlayın)
 gcc -o savas_sim main.c libcurl_entegrasyon.c raylib_entegrasyon.c json_ayristirma.c -lcurl -lraylib
 Not: Parametreler ve dosya isimleri proje yapınıza göre değişebilir.
 
@@ -81,7 +80,6 @@ Not: Parametreler ve dosya isimleri proje yapınıza göre değişebilir.
 Derleme işlemi sorunsuz tamamlandığında:
 
 bash
-Kodu kopyala
 ./savas_sim
 Program çalıştığında, sizden bir senaryo seçmeniz veya belirli bir URL girmeniz istenebilir. Seçtiğiniz senaryo libcurl aracılığıyla otomatik olarak indirilecek ve simülasyon başlayacaktır.
 
