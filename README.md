@@ -59,7 +59,7 @@ Linux/Unix Tabanlı Sistemlerde (Ubuntu, Debian vb.) bağımlılıkların kurulu
 
 bash
 Kodu kopyala
-# libcurl kurulumu
+### libcurl kurulumu
 sudo apt-get update
 sudo apt-get install libcurl4-openssl-dev
 
